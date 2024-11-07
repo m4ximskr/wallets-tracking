@@ -1,0 +1,6 @@
+/.idea
+analysis.csv
+wallets.csv
+tokenAnalytics.csv
+.env
+.DS_Store
